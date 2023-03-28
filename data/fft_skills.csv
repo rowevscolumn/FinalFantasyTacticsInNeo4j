@@ -1,0 +1,280 @@
+job,type,name,jp
+Squire,Command,Accumulate,300
+Squire,Command,Dash,80
+Squire,Command,Throw Stone,90
+Squire,Command,Heal,150
+Squire,Reaction,Counter Tackle,180
+Squire,Support,Equip Axes,170
+Squire,Support,Monster Skill,200
+Squire,Support,Defend,50
+Squire,Support,Gained JP Up,250
+Squire,Movement,Move +1,200
+Chemist,Command,Potion,30
+Chemist,Command,Hi-Potion,200
+Chemist,Command,X-Potion,300
+Chemist,Command,Ether,300
+Chemist,Command,Hi-Ether,400
+Chemist,Command,Elixir,900
+Chemist,Command,Antidote,70
+Chemist,Command,Eye Drop,80
+Chemist,Command,Echo Grass,120
+Chemist,Command,Maiden's Kiss,200
+Chemist,Command,Soft,250
+Chemist,Command,Holy Water,400
+Chemist,Command,Remedy,700
+Chemist,Command,Phoenix Down,90
+Chemist,Reaction,Auto Potion,400
+Chemist,Support,Throw Item,350
+Chemist,Support,Maintenance,250
+Chemist,Support,Equip Change,0
+Chemist,Movement,Move-Find Item,100
+Knight,Command,Head Break,300
+Knight,Command,Armor Break,400
+Knight,Command,Shield Break,300
+Knight,Command,Weapon Break,400
+Knight,Command,Magic Break,250
+Knight,Command,Speed Break,250
+Knight,Command,Power Break,250
+Knight,Command,Mind Break,250
+Knight,Reaction,Weapon Guard,200
+Knight,Support,Equip Armor,500
+Knight,Support,Equip Shield,250
+Knight,Support,Equip Sword,400
+Archer,Command,Charge +1,100
+Archer,Command,Charge +2,150
+Archer,Command,Charge +3,200
+Archer,Command,Charge +4,250
+Archer,Command,Charge +5,300
+Archer,Command,Charge +7,400
+Archer,Command,Charge +10,700
+Archer,Command,Charge +20,1200
+Archer,Reaction,Speed Save,900
+Archer,Reaction,Arrow Guard,450
+Archer,Support,Equip Crossbows,350
+Archer,Support,Concentrate,400
+Archer,Movement,Jump +1,200
+Priest,Command,Cure,50
+Priest,Command,Cure 2,180
+Priest,Command,Cure 3,450
+Priest,Command,Cure 4,700
+Priest,Command,Raise,180
+Priest,Command,Raise 2,500
+Priest,Command,Reraise,800
+Priest,Command,Regen,300
+Priest,Command,Protect,70
+Priest,Command,Protect 2,500
+Priest,Command,Shell,70
+Priest,Command,Shell 2,500
+Priest,Command,Wall,380
+Priest,Command,Esuna,280
+Priest,Command,Holy,600
+Priest,Reaction,Regenerator,400
+Priest,Support,Magic DefendUP,400
+Wizard,Command,Fire,50
+Wizard,Command,Fire 2,200
+Wizard,Command,Fire 3,500
+Wizard,Command,Fire 4,850
+Wizard,Command,Bolt,50
+Wizard,Command,Bolt 2,200
+Wizard,Command,Bolt 3,500
+Wizard,Command,Bolt 4,850
+Wizard,Command,Ice,50
+Wizard,Command,Ice 2,200
+Wizard,Command,Ice 3,500
+Wizard,Command,Ice 4,850
+Wizard,Command,Poison,150
+Wizard,Command,Toad,500
+Wizard,Command,Death,600
+Wizard,Command,Flare,900
+Wizard,Reaction,Counter Magic,800
+Wizard,Support,Magic AttackUP,400
+Monk,Command,Spin Fist,150
+Monk,Command,Repeating Fist,300
+Monk,Command,Wave Fist,300
+Monk,Command,Earth Slash,600
+Monk,Command,Secret Fist,300
+Monk,Command,Stigma Magic,200
+Monk,Command,Chakra,350
+Monk,Command,Revive,500
+Monk,Reaction,HP Restore,500
+Monk,Reaction,Counter,300
+Monk,Reaction,Hamedo,1200
+Monk,Support,Martial Arts,200
+Monk,Movement,Move-HP Up,300
+Thief,Command,Gil Taking,10
+Thief,Command,Steal Heart,150
+Thief,Command,Steal Helmet,350
+Thief,Command,Steal Armor,450
+Thief,Command,Steal Sheild,350
+Thief,Command,Steal Weapon,600
+Thief,Command,Steal Accessory,500
+Thief,Command,Steal Exp,250
+Thief,Reaction,Caution,200
+Thief,Reaction,Gilgame Heart,200
+Thief,Reaction,Catch,200
+Thief,Support,Secret Hunt,200
+Thief,Movement,Move +2,520
+Thief,Movement,Jump +2,480
+Oracle,Command,Blind,100
+Oracle,Command,Spell Absorb,200
+Oracle,Command,Life Drain,350
+Oracle,Command,Pray Faith,400
+Oracle,Command,Doubt Faith,400
+Oracle,Command,Zombie,300
+Oracle,Command,Silence Song,170
+Oracle,Command,Blind Rage,400
+Oracle,Command,Foxbird,200
+Oracle,Command,Confusion Song,400
+Oracle,Command,Dispel Magic,800
+Oracle,Command,Paralyze,100
+Oracle,Command,Sleep,350
+Oracle,Command,Petrify,580
+Oracle,Reaction,Absorb Used MP,250
+Oracle,Support,Defense UP,400
+Oracle,Movement,Any Weather,200
+Oracle,Movement,Move-MP Up,350
+Time Mage,Command,Haste,100
+Time Mage,Command,Haste 2,550
+Time Mage,Command,Slow,80
+Time Mage,Command,Slow 2,520
+Time Mage,Command,Stop,330
+Time Mage,Command,Don't Move,100
+Time Mage,Command,Float,200
+Time Mage,Command,Reflect,300
+Time Mage,Command,Quick,800
+Time Mage,Command,Demi,250
+Time Mage,Command,Demi 2,550
+Time Mage,Command,Meteor,1500
+Time Mage,Reaction,Critical: Quick,700
+Time Mage,Reaction,MP Switch,400
+Time Mage,Support,Short Charge,800
+Time Mage,Movement,Teleport,600
+Time Mage,Movement,Float,540
+Geomancer,Command,Pitfall,150
+Geomancer,Command,Water Ball,150
+Geomancer,Command,Hell's Ivy,150
+Geomancer,Command,Carve Model,150
+Geomancer,Command,Local Quake,150
+Geomancer,Command,Kamaitachi,150
+Geomancer,Command,Demon Fire,150
+Geomancer,Command,Quicksand,150
+Geomancer,Command,Sandstorm,150
+Geomancer,Command,Blizzard,150
+Geomancer,Command,Gusty Wind,150
+Geomancer,Command,Lava Ball,150
+Geomancer,Reaction,Counter Flood,300
+Geomancer,Support,Attack UP,400
+Geomancer,Movement,Any Ground,220
+Geomancer,Movement,Move on Lava,150
+Lancer,Command,Horizontal Jump 2,150
+Lancer,Command,Horizontal Jump 3,300
+Lancer,Command,Horizontal Jump 4,450
+Lancer,Command,Horizontal Jump 5,600
+Lancer,Command,Horizontal Jump 8,900
+Lancer,Command,Veritcal Jump 2,100
+Lancer,Command,Vertical Jump 3,200
+Lancer,Command,Veritcal Jump 4,300
+Lancer,Command,Vertical Jump 5,400
+Lancer,Command,Vertical Jump 6,500
+Lancer,Command,Vertical Jump 7,600
+Lancer,Command,Vertical Jump 8,900
+Lancer,Reaction,Dragon Spirit,560
+Lancer,Support,Equip Spears,400
+Lancer,Movement,Ignore Height,700
+Mediator,Command,Invitation,100
+Mediator,Command,Persuade,100
+Mediator,Command,Praise,200
+Mediator,Command,Threaten,200
+Mediator,Command,Preach,200
+Mediator,Command,Solution,200
+Mediator,Command,Death Sentence,500
+Mediator,Command,Negotiate,100
+Mediator,Command,Insult,300
+Mediator,Command,Mimic Daravon,300
+Mediator,Reaction,Finger Guard,300
+Mediator,Support,Equip Guns,750
+Mediator,Support,Train,450
+Mediator,Support,Monster Talk,100
+Summoner,Command,Mogri,110
+Summoner,Command,Shiva,200
+Summoner,Command,Ramuh,200
+Summoner,Command,Ifrit,200
+Summoner,Command,Titan,220
+Summoner,Command,Golem,500
+Summoner,Command,Carbunkle,350
+Summoner,Command,Bahamut,1600
+Summoner,Command,Odin,900
+Summoner,Command,Leviathan,850
+Summoner,Command,Salamander,820
+Summoner,Command,Silf,400
+Summoner,Command,Fairy,460
+Summoner,Command,Rich,600
+Summoner,Command,Cyclops,1000
+Summoner,Reaction,MP Restore,400
+Summoner,Support,Half of MP,900
+Samurai,Command,Asura Knife,100
+Samurai,Command,Koutetsu,180
+Samurai,Command,Bizen Boat,260
+Samurai,Command,Murasame,340
+Samurai,Command,Heaven's Cloud,420
+Samurai,Command,Kiyomori,500
+Samurai,Command,Muramasa,580
+Samurai,Command,Kikuichimoji,660
+Samurai,Command,Masamune,740
+Samurai,Command,Chirijiraden,820
+Samurai,Reaction,Meatbone Slash,200
+Samurai,Reaction,Blade Grasp,700
+Samurai,Support,Equip Knife,400
+Samurai,Support,Two Hands,900
+Samurai,Movement,Move in Water,300
+Ninja,Command,Shuriken,50
+Ninja,Command,Ball,70
+Ninja,Command,Knife,100
+Ninja,Command,Sword,100
+Ninja,Command,Hammer,100
+Ninja,Command,Katana,100
+Ninja,Command,Ninja Sword,100
+Ninja,Command,Axe,120
+Ninja,Command,Spear,100
+Ninja,Command,Stick,100
+Ninja,Command,Knight's Sword,100
+Ninja,Command,Book,100
+Ninja,Reaction,Sunken State,900
+Ninja,Reaction,Abandon,400
+Ninja,Support,Two Swords,900
+Ninja,Movement,Walk on Water,420
+Calculator,Command,CT,250
+Calculator,Command,Level,350
+Calculator,Command,EXP,200
+Calculator,Command,Height,250
+Calculator,Command,Prime,300
+Calculator,Command,5,200
+Calculator,Command,4,400
+Calculator,Command,3,600
+Calculator,Reaction,Distribute,200
+Calculator,Reaction,Damage Split,300
+Calculator,Support,Gained Exp UP,350
+Calculator,Movement,Move-Get Exp,400
+Calculator,Movement,Move-Get JP,400
+Dancer,Command,Witch Hunt,100
+Dancer,Command,Wiznaibus,100
+Dancer,Command,Slow Dance,100
+Dancer,Command,Polka Polka,100
+Dancer,Command,Disillusion,100
+Dancer,Command,Nameless Dance,100
+Dancer,Command,Last Dance,100
+Dancer,Reaction,A Save,550
+Dancer,Reaction,Brave UP,500
+Dancer,Movement,Jump +3,1000
+Dancer,Movement,Fly,1200
+Bard,Command,Angel Song,100
+Bard,Command,Life Song,100
+Bard,Command,Cheer Song,100
+Bard,Command,Battle Song,100
+Bard,Command,Magic Song,100
+Bard,Command,Namesless Song,100
+Bard,Command,Last Song,100
+Bard,Reaction,MA Save,450
+Bard,Reaction,Face UP,500
+Bard,Movement,Move +3,1000
+Bard,Movement,Fly,1200
